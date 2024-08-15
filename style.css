@@ -1,0 +1,84 @@
+#me{
+    display:flex;
+    font-size: 20px;
+    justify-content: center;
+    background-color: rgb(229, 171, 100);
+    border: 5px solid rgb(120, 90, 45);
+    padding: 10px
+
+}
+
+
+.navigate{
+font-family: Helvetica;
+background-color: white;
+color: white;
+font-size: 32px;
+padding: 5px;
+
+}
+
+#location {
+    background-color: #ffdb58;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+ }
+ 
+.items:hover{
+    background-color: gray;
+    opacity: 0.5;
+}
+
+a{
+    width: 40%;
+    text-align: center;
+    text-decoration: blue;
+    border: 2px solid white;
+}
+
+.aboutme{
+    
+    display: inline-block;
+    background-color: rgb(142, 188, 26);
+    border: 7px solid rgba(157, 188, 205, 0.3);
+    margin-right: 20px;
+    padding: 5px;
+    box-sizing: border-box;
+    
+    
+    
+   
+
+}
+
+.image{
+    display: inline-block;
+    background-color: aliceblue;
+    border: 7px solid aliceblue;
+    padding: 1px;
+    justify-content: flex-end;
+    box-sizing: border-box;
+    
+    }
+    
+.hob{
+    background-color:azure;
+    font-size: 30px;
+}
+.exp{
+    background-color: antiquewhite;
+    font-size: 30px;
+}
+
+
+
+.enjoy2{
+    display: flex;
+    font-size: 20px;
+  
+}
+.row{
+display:flex ;
+justify-content: space-around;
+}
